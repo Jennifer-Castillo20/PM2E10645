@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PM2E10645</string>
+    <string name="btnsalvar">Salvar Contacto</string>
+    <string name="btncontacto">Contactos Salvados</string>
+
+    <string name="btnatras">Atras  ...</string>
+    <string name="btncompartir">Compartir Contacto</string>
+    <string name="btnver">Ver Imagen</string>
+    <string name="btneliminar">Eliminar Contacto</string>
+    <string name="btnactualizar">Actualizar Contacto</string>
+
+</resources>
